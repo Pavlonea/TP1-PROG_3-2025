@@ -102,3 +102,11 @@ th {
     font-size: 20px;
     width: 4%;
 }
+
+#contacto {
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 20px;
+    width: 5%;
+}
