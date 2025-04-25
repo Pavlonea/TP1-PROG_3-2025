@@ -1,5 +1,6 @@
 body{
     font-family:Arial,serif sans-serif;
+    background-color: rgb(15, 88, 131);
 }
 .menu a{
     text-decoration: none;
@@ -12,6 +13,7 @@ body{
 }
 .menu{
     background-color: cornflowerblue;
+    border-radius: 10px;
     height: 12%;
     width: 100%;
     display: flex;
@@ -20,12 +22,11 @@ body{
     padding: 5px;
 }
 
-.img_perfil{
+.perfil img {
     align-items: center;
-    display: flex;
     width: 140px;
     height: 150px;
-    border-radius: 10%;
+    border-radius: 5%;
     margin: 10px;
     
 }
